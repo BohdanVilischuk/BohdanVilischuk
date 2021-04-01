@@ -48,6 +48,7 @@ I'm Bohdan a 22 year old front-end JavaScript web developer!
 &nbsp;
 [<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" />]
 &nbsp;
+&nbsp;
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />]
 &nbsp;
 
