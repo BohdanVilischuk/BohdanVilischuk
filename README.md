@@ -6,11 +6,12 @@ Welcome to my profile!<br/>
 I'm Bohdan a 22 year old front-end JavaScript web developer!
  
  🎓 Bachelor of Computer Science and Information Technologies
- 👨🏻‍💻 I like create awesome stuff 
+ 👨🏻‍💻 I like create awesome stuff and I love creating beautiful, dynamic and reactive UI and web interfaces
  🇺🇦 Ukrainian  
  📍 Currently based in Lutsk, UA  
- ⚙️ Frontend JavaScript developer
- 🚀 Interested in all new technologies in web development and i know all about modern JavaScript frameworks)  
+ ⚙️ Front-end developer
+ 🚀 Interested in all new technologies in web development and i know all about modern JavaScript frameworks 
+ 
 
 
 ## 🛠  Technologies and tools
