@@ -3,7 +3,7 @@
 </p>
 
 Welcome to my profile!<br/>
-I'm Bohdan a 22 year old front-end JavaScript web developer!
+I'm Bohdan a 22 year old front-end web developer!
  
  🎓 Bachelor of Computer Science and Information Technologies
  👨🏻‍💻 I like create awesome stuff and I love creating beautiful, dynamic and reactive UI and web interfaces
