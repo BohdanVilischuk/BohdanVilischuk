@@ -3,7 +3,7 @@
 </p>
 
 Welcome to my profile!<br/>
-I'm Bohdan a 22 year old front-end web developer!
+My name is Bohdan and I'm a front-end web developer!
  
  🎓 Bachelor of Computer Science and Information Technologies
  &nbsp;
