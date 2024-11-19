@@ -7,12 +7,17 @@ My name is Bohdan and I'm a front-end web developer!
  
  🎓 Bachelor of Computer Science and Information Technologies
  &nbsp;
+ 
  💻 I like create awesome stuff and I love creating beautiful, dynamic and reactive UI and web interfaces
  &nbsp;
+ 
  🇺🇦 Ukrainian 
  &nbsp;
+ 
  📍 Currently based in Lutsk, UA  
+ 
  ⚙️ Front-end developer
+ 
  🚀 Interested in all new technologies in web development and i know all about modern JavaScript frameworks 
  
 
